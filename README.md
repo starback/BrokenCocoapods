@@ -14,7 +14,6 @@ Create a symlink in the DemoProject base directory to the 'components' directory
 
 Ex:
 ```
-cd ~/Desktop/DemoProject
 ln -s ~/Desktop/components .
 ```
 
